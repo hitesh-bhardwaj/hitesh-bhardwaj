@@ -59,24 +59,6 @@ From FLIP fluid simulations to enterprise SaaS platforms, I work across the full
 
 ---
 
-## 🚀 Live Projects
-
-> 🔒 Most of these projects involve private codebases - links go directly to the live products.
-
-A selection of production work spanning design agencies, fintech platforms, SaaS products, and AI systems.
-
-| Project | Category | Description | Live |
-|---------|----------|-------------|------|
-| 🟣 **[Enigma Digital](https://weareenigma.com)** | UI/UX Agency | Award-winning digital experience agency. Built with immersive scroll animations, GSAP, and neuromarketing-driven design principles. | [→ weareenigma.com](https://weareenigma.com) |
-| 🟢 **[Patronum](https://www.patronum.io)** | SaaS · B2B | Google Workspace management platform. Automates admin, user lifecycle & data security for enterprise teams worldwide. | [→ patronum.io](https://www.patronum.io) |
-| 🟡 **[Yellow](https://www.welcometoyellow.com)** | Branding · Dubai | Dubai-based branding & advertising agency. Covers brand strategy, identity, naming, and digital for major regional clients. | [→ welcometoyellow.com](https://www.welcometoyellow.com) |
-| 🔵 **[Montra](https://www.montra.app)** | Fintech · Super App | All-in-one digital wallet for banking, payments, loans & chat. A full-featured super-app serving retail & business users across Africa. | [→ montra.app](https://www.montra.app) |
-| 🔵 **[MonieLink](https://www.monielink.io)** | Neobank · SDK | Neobank infrastructure for banks & fintechs. Powers digital banking via a single Super SDK — enabling 6× revenue growth. | [→ monielink.io](https://www.monielink.io) |
-| 🟠 **[Data Science Wizards](https://www.datasciencewizards.ai)** | AI · Enterprise | Enterprise AI operating system for insurance, banking & retail. UnifyAI delivers industry-specific ML at measurable scale. | [→ datasciencewizards.ai](https://www.datasciencewizards.ai) |
-| 🟠 **[Unify Agentic AI](https://unifyai-platform.vercel.app)** | AI · Platform | Modern agentic AI platform orchestrating autonomous enterprise workflows — built with cutting-edge frontend tooling. | [→ unifyai-platform.vercel.app](https://unifyai-platform.vercel.app) |
-
----
-
 ## 🔒 Private Work Highlights
 
 Beyond public repos, here's a snapshot of what I've shipped privately:
